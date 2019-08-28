@@ -43,6 +43,8 @@
 *.pdb
 
 # Kernel Module Compile Results
+/Library/
+/Temp/
 *.mod*
 *.cmd
 .tmp_versions/
