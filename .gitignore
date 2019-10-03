@@ -35,12 +35,15 @@
 *.i*86
 *.x86_64
 *.hex
+.vs
 
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
+*.csproj
+*.sln
 
 # Kernel Module Compile Results
 /Library/
@@ -52,3 +55,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*build/

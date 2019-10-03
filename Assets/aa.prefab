@@ -627,7 +627,7 @@ GameObject:
   - component: {fileID: 114000011272945856}
   - component: {fileID: 114000010461186036}
   m_Layer: 0
-  m_Name: http
+  m_Name: aa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2643,7 +2643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bdfd21c7db1d544db071025c9798a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Audio: {fileID: 0}
+  Audio: {fileID: 114000012396727404}
   btn:
   - {fileID: 114000010683484656}
   - {fileID: 114000011426369552}
@@ -2657,6 +2657,8 @@ MonoBehaviour:
   - {fileID: 114000011127229398}
   Info: {fileID: 114000010126966326}
   screen: {fileID: 102000012174600218}
+  needy: {fileID: 114000011272945856}
+  codeOverride: -1
 --- !u!114 &114000010683484656
 MonoBehaviour:
   m_ObjectHideFlags: 1

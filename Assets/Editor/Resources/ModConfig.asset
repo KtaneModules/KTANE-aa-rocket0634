@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Name: ModConfig
   m_EditorClassIdentifier: 
   id: aa
-  title: aa
-  description: "aa.\n\rModule ID (suprisingly) aa\nModule is in Pre-Alpha, and logging
-    is weird. More letter added soon. Appearance will change. Modifed from HTTP response.\nManual:
-    Coming Soon\n"
-  version: 0.01
+  title: aa [REUPLOAD]
+  description: "aa.\n\rModule ID (suprisingly) aa\nmodule made by Ryaninator\nOriginal
+    mod can be found/unsubscribed from here: https://steamcommunity.com/sharedfiles/filedetails/?id=1695885861"
+  version: 1.0
   outputFolder: build
-  previewImage: {fileID: 0}
+  previewImage: {fileID: 2800000, guid: ed6b14dfe5e3da64498d3c80bdc354bf, type: 3}
