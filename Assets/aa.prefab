@@ -2793,6 +2793,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CountdownTime: 50
+  ResetDelayMin: 35
+  ResetDelayMax: 45
   ModuleType: aa
   ModuleDisplayName: aa
   RequiresTimerVisibility: 0

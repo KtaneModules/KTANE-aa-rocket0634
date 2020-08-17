@@ -1,5 +1,4 @@
-﻿using KModkit;
-using UnityEngine;
+﻿using UnityEngine;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
@@ -23,7 +22,6 @@ public class Aa : MonoBehaviour {
     void Start()
     {
         _moduleId = _moduleIdCounter++;
-        needy.SetResetDelayTime(35, 45);
     }
 
     private void Awake()

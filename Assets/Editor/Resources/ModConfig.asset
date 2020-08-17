@@ -15,7 +15,8 @@ MonoBehaviour:
   title: aa
   description: "aa.\n\rModule ID (suprisingly) aa\nmodule made by Ryaninator\nOriginal
     mod can be found/unsubscribed from here: https://steamcommunity.com/sharedfiles/filedetails/?id=1695885861\r\n\r\nManual:
-    https://ktane.timwi.de/HTML/Aa.html"
+    https://ktane.timwi.de/HTML/Aa.html\n\n8/17/2020 Update requires a version of
+    KTaNE released after May 2020."
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: ed6b14dfe5e3da64498d3c80bdc354bf, type: 3}
